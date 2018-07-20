@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+     <string-array name="from_currency_array">
+            <item>Dollar</item>
+            <item>Rupees</item>
+            <item>Pound</item>
+            <item>Euro</item>
+            <item>Yen - Japan</item>
+         <item>Yuan - China</item>
+    </string-array>
+    <string-array name="to_currency_array">
+        <item>Dollar</item>
+        <item>Rupees</item>
+        <item>Pound</item>
+        <item>Euro</item>
+        <item>Yen - Japan</item>
+        <item>Yuan - China</item>
+    </string-array>
+</resources>
